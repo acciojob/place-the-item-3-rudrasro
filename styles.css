@@ -8,4 +8,5 @@
     align-items: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }

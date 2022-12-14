@@ -4,7 +4,7 @@
     width: 320px;
     height: 200px;
     border: 2px solid black;
-    display: flexbox;
+    display: flex;
     align-items: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
